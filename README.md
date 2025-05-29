@@ -34,9 +34,9 @@
 
 **Libraries & Frameworks:**
 - Python: `pandas`, `numpy`, `scikit-learn`,`MatPlotLib`
-- Web dev: React, Node.js, TailwindCSS, HTML, CSS, JavaScript, PHP
-- Databases: MySQL, SQL, MongoDB
-- Code Editors & IDE's: VS-Code, Jupyter Notebook, PyCharm
+- Web dev: `React`, `Node.js`, `TailwindCSS`, `HTML`, `CSS`, `JavaScript`, `PHP`
+- Databases: `MySQL`, `SQL`, `MongoDB`
+- Code Editors & IDE's: `VS-Code`, `Jupyter Notebook`, `PyCharm`
 ---
 
 📫 **Connect with Me**
